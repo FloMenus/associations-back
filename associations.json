@@ -1,0 +1,23 @@
+[
+    {
+        "slug":"les-restos-du-coeur",
+        "name": "Les restos du coeur",
+        "description": "Fondés par Coluche en 1985, Les Restos du cœur, association reconnue d'utilité publique, « ont pour but d'aider et d'apporter une assistance bénévole aux personnes démunies, notamment dans le domaine alimentaire par l'accès à des repas gratuits, et par la participation à leur insertion sociale et économique, ainsi qu'à toute action contre la pauvreté sous toutes ses formes »",
+        "slogan": "Notre aide ne se limite pas à l'alimentaire",
+        "image": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/Restos_du_coeur_Logo.svg/langfr-800px-Restos_du_coeur_Logo.svg.png"
+    },
+    {
+        "slug":"unicef",
+        "name": "UNICEF",
+        "description": "UNICEF est une agence de l'Organisation des Nations unies (ONU) consacrée à l'amélioration et à la promotion de la condition des enfants.",
+        "slogan": "Il faut donner à l'Unicef pour mieux donner aux enfants.",
+        "image": "https://www.slogan.pub/img/brands/2899/1_Unicef.jpg"
+    },
+    {
+        "slug":"konexio",
+        "name": "Konexio",
+        "description": "Konexio est une association et un organisme de formation qui forme aux compétences numériques - des plus basiques aux plus avancées - afin de faciliter l'inclusion socioprofessionnelle.",
+        "slogan": "Faire du numérique une opportunité pour tous.tes.",
+        "image": "https://upload.wikimedia.org/wikipedia/fr/5/54/Logo_Konexio.png"
+    }
+]
